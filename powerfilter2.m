@@ -1,5 +1,6 @@
 function powerfilter2
 % UI Figure to filter power output from Gen-1 pump controller
+% by Tim Conover
 % new version for 2026
 N=80;	% initial length of running average
 fs=40;	% initial (assumed) sample rate.  This is only used approximately,
